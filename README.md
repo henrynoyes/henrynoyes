@@ -1,7 +1,9 @@
-### for me
+### for robots
+- :eyes: [robot-see](https://github.com/henrynoyes/robot-see) - A visualization tool for robot models
 - :robot: [robot-diff](https://github.com/henrynoyes/robot-diff) - A diffing tool for robot models
+
+### for me
 - :gear: [dotfiles](https://github.com/henrynoyes/dotfiles) - Automated terminal configuration
-- :pick: [rosbag-extractor](https://github.com/henrynoyes/rosbag-extractor) - Pythonized extraction of ROS2 bags
 - :orange_book: [jots](https://github.com/henrynoyes/jots) - Personal potpourri
 
 ### for fun
